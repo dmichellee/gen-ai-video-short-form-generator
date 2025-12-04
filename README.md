@@ -75,7 +75,7 @@ Create your own repository and follow [Amplify deployment steps](https://docs.am
 ```sh
 npx ampx sandbox delete
 ```
-
+ 
 > [!IMPORTANT]
 > You can verify whether all the resources have been deleted in the AWS CloudFormation console.
 
